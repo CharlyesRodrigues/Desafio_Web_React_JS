@@ -31,8 +31,7 @@ const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
 
   )
   
-  const{ t } = useTransition()  
-   
+    
     return (
   
             <div className="Header">
