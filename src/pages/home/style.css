@@ -11,7 +11,7 @@
     
     /* Dark/surface-secondary */
     
-    background: #27272A;
+    background: var(--Rectangle-4234);
 
 
 }
@@ -26,7 +26,7 @@
     left: 325px;
     top: 168px;
     
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
@@ -80,58 +80,44 @@ top: 305px;
 
 /* Dark/surface-secondary */
 
-background: #27272A;
+background: var(--Rectangle-4234);
 border: 1px solid #9D4B00;
 border-radius: 8px;
 }
     
 .div1{
 
-    position: absolute;
+   
     width: 157px;
     height: 128px;
     left: 380px;
-    top: 327px;
-    
-    font-family: 'Inter', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 160%;
-    /* or 32px */
-    
-    
-    color: #EDEDED;
+    top: 327px;    
 
 }
 .div2{
 
-    position: absolute;
+ 
     width: 222px;
     height: 128px;
     left: 635px;
     top: 327px;
     
-    font-family: 'Inter', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 160%;
-    /* or 32px */
-    
-    
-    color: #EDEDED;
-
 }
 .div3{
 
-    position: absolute;
+
     width: 106px;
     height: 64px;
     left: 955px;
     top: 327px;
     
-    font-family: 'Inter', sans-serif;
+   
+    
+}
+.div1, .div2, .div3{
+
+    position: absolute;
+    font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
@@ -139,6 +125,6 @@ border-radius: 8px;
     /* or 32px */
     
     
-    color: #EDEDED;
-    
+    color: var(--white);
+
 }

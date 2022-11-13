@@ -12,7 +12,7 @@ import './style.css';
           
       <div className="background_Portugues"></div>
        <h1 id='portugues' >Português</h1> 
-       <button  className="bottomPortugues"  onclick="myFunction()"> <img src='src\img\Idiomas\brazil.png'></img></button>
+       <button  className="bottomPortugues"  onclick="myFunction()"> <img src='src\assets\flags\brazil.png'></img></button>
      
       
     
@@ -23,7 +23,7 @@ import './style.css';
    
     <div className="background_Espanhol"> </div>
        <h1 id='espanhol'  >Espanhol</h1> 
-       <button  className="bottomEspanhol" onclick = "teste()" ><img  src='src\img\Idiomas\spain 2.png'></img></button>
+       <button  className="bottomEspanhol" onclick = "teste()" ><img  src='src\assets\flags\spain.png'></img></button>
 
  
   </div>

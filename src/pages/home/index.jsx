@@ -38,7 +38,7 @@ const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
             Tecnologias que tenho experiências:
           </h1>
                <div className='Logo' > </div>
-               <img className='imagem1' src='src\img\logo\logo.png'></img>
+               <img className='imagem1' src='src\assets\Logo\logo.png'></img>
               
             <div className=' Rectangle4234'> </div>
             
