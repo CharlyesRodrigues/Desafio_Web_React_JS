@@ -1,0 +1,141 @@
+.background_Portugues {
+    position: absolute;
+    width: 133px;
+    height: 51px;
+    left: 470px;
+    top: 821px;
+    
+    /* Dark/surface-secondary */
+    
+    background: var(--Rectangle-4234);
+    border-radius: 8px;
+}
+.background_Ingles{
+    position: absolute;
+    width: 133px;
+    height: 51px;
+    left: 653px;
+    top: 821px;
+    
+    /* Dark/surface-secondary */
+    
+    background: var(--Rectangle-4234);
+    border-radius: 8px;
+
+}
+
+.background_Espanhol{
+
+
+    position: absolute;
+    width: 133px;
+    height: 51px;
+    left: 836px;
+    top: 821px;
+    
+    /* Dark/surface-secondary */
+    
+    background: var(--Rectangle-4234);
+    border-radius: 8px;
+
+
+}
+
+
+#portugues{
+
+    position: absolute;
+    width: 81px;
+    height: 26px;
+    left: 510px;
+    top: 834px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    /* identical to box height, or 26px */
+    
+    
+    color: var(--white);    
+
+
+}
+
+
+
+#ing{
+
+    position: absolute;
+    width: 47px;
+    height: 26px;
+    left: 710px;
+    top: 834px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    /* identical to box height, or 26px */
+    
+    
+    color: var(--white);
+
+
+
+}
+#espanhol{
+
+
+    position: absolute;
+    width: 72px;
+    height: 26px;
+    left: 881px;
+    top: 834px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    /* identical to box height, or 26px */
+    
+    
+    color: var(--white);
+
+
+}
+.bottomPortugues{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 482px;
+    top: 837px;
+    
+  
+
+}
+
+.bottomIngles{
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 682px;
+top: 837px;
+
+background: url('src/img/Idiomas/united-states.png');
+
+}
+.bottomEspanhol{
+   
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 853px;
+    top: 837px;
+    
+   
+}

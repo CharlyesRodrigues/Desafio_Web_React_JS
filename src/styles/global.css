@@ -1,0 +1,27 @@
+:root {
+    --white: #FFFFFF;
+    --dark: #121212;
+    --white: #EDEDED ;
+    --Rectangle-4234: #27272A;
+   
+}
+ 
+ * {
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+ 
+ }
+
+
+ body {
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    
+    background: var(--dark);
+
+ }
+ 
