@@ -22,7 +22,7 @@ background: #27272A;
     left: 325px;
     top: 168px;
     
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
@@ -87,7 +87,7 @@ border-radius: 8px;
     left: 380px;
     top: 327px;
     
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
@@ -106,7 +106,7 @@ border-radius: 8px;
     left: 635px;
     top: 327px;
     
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
@@ -125,7 +125,7 @@ border-radius: 8px;
     left: 955px;
     top: 327px;
     
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 20px;

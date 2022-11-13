@@ -5,8 +5,7 @@ import './style.css';
 
  export function Linguagem(props) {
   
-
-
+  
     return (
       <div>
           

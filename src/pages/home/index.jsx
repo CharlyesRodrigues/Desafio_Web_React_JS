@@ -11,10 +11,10 @@ import { Linguagem } from "../../components/Linguagem/index"
 
 export function Home(teste) {
 
-  const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
+ const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
   const coluna1 = lista1.map(
 
-(a)=> <ul><li>{a}</li></ul>
+    (a)=> <ul><li>{a}</li></ul>
 
   )
   const lista2 = ["Styled Components", "Saas", "Node", "TypeScript"];
