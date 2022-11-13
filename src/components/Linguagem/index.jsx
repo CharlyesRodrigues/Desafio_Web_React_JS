@@ -3,10 +3,9 @@
 import './style.css';
 
 
- export function Linguagem(props) {
+ export function Linguagem() {
   
-
-  
+ 
     return (
       <div>
           

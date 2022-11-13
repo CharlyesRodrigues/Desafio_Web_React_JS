@@ -2,6 +2,7 @@
 
 
 
+import { useTranslation } from 'react-i18next';
 import './style.css'; /* como já estamos dentro da página home 
 importamos dessa forma*/
 
@@ -9,7 +10,7 @@ import { Linguagem } from "../../components/Linguagem/index"
 
 
 
-export function Home(props) {
+export function Home() {
 
 const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
   const coluna1 = lista1.map(
@@ -31,12 +32,11 @@ const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
   )
   
    
+  let { t } = useTranslation();  
     return (
   
             <div className="Header">
-          <h1>Olá, meu nome é Charlyes Souza Rodrigues e eu sou desenvolvedor Front-end,
-            Tecnologias que tenho experiências:
-          </h1>
+          <h1>{t('welcomeTo')} </h1>
                <div className='Logo' > </div>
                <img className='imagem1' src='src\assets\Logo\logo.png'></img>
               
