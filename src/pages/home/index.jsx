@@ -32,7 +32,7 @@ const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
   
    
     return (
-      <div className='LayoutAplicação' >
+  
             <div className="Header">
           <h1>Olá, meu nome é Charlyes Souza Rodrigues e eu sou desenvolvedor Front-end,
             Tecnologias que tenho experiências:
@@ -49,6 +49,6 @@ const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
                <Linguagem />   
                
            </div>
-     </div>
+    
     )
   }

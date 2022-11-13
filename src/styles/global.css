@@ -3,7 +3,8 @@
     --dark: #121212;
     --white: #EDEDED ;
     --Rectangle-4234: #27272A;
-   
+    
+
 }
  
  * {
@@ -21,7 +22,7 @@ box-sizing:border-box;
     left: 0px;
     top: 0px;
     
-    background: var(--dark);
+    background: var( --dark);
 
  }
  
