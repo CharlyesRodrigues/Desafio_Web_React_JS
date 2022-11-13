@@ -1,13 +1,27 @@
 
-.apresentacao{
+.LayoutAplicação{
 
-position: absolute;
-width: 1440px;
-height: 72px;
-left: 0px;
-top: 0px;
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    
+    background: #121212;
 
-background: #27272A;
+}
+.Header{
+
+
+    position: absolute;
+    width: 1440px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+    
+    /* Dark/surface-secondary */
+    
+    background: #27272A;
 
 
 }
@@ -15,7 +29,7 @@ background: #27272A;
 
 
 
-.apresentacao h1{
+.Header h1{
     position: absolute;
     width: 791px;
     height: 76px;
@@ -38,7 +52,7 @@ background: #27272A;
 }
 
 
-.background-logo{
+.Logo {
 
     position: absolute;
     width: 190px;
@@ -52,17 +66,19 @@ background: #27272A;
 
 }
 
-.logo{
+.imagem1{
 
     position: absolute;
     width: 150px;
     height: 27.82px;
     left: 645px;
     top: 22px;
+   
+
 
 }
 
-.Lista{
+.Rectangle4234{
 
     box-sizing: border-box;
 

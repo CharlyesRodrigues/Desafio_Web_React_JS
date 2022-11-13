@@ -32,14 +32,15 @@ const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
   
    
     return (
-     <div className="apresentacao">
+      <div className='LayoutAplicação' >
+            <div className="Header">
           <h1>Olá, meu nome é Charlyes Souza Rodrigues e eu sou desenvolvedor Front-end,
             Tecnologias que tenho experiências:
           </h1>
-               <div className='background-logo' > </div>
-               <img className='logo' src='src\img\logo.png'></img>
+               <div className='Logo' > </div>
+               <img className='imagem1' src='src\img\logo\logo.png'></img>
               
-            <div className='Lista'> </div>
+            <div className=' Rectangle4234'> </div>
             
             <div className='div1'>{coluna1}</div> 
             <div className='div2'>{coluna2}</div> 
@@ -47,7 +48,7 @@ const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
               
                <Linguagem />   
                
+           </div>
      </div>
-     
     )
   }
