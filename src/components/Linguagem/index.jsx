@@ -24,7 +24,7 @@ import './style.css';
   
    
     <div className="background_Espanhol"> </div>
-       <h1 id='espanh'  >Espanhol</h1> 
+       <h1 id='espanhol'  >Espanhol</h1> 
        <button  className="bottomEspanhol" onclick = "teste()" ><img  src='src\assets\flags\spain.png'></img></button>
 
  
