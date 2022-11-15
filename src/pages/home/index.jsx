@@ -47,7 +47,7 @@ const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
             <div className='div2'>{coluna2}</div> 
             <div className='div3'>{coluna3}</div> 
               
-               <Linguagem />   
+               <Linguagem   
                
            </div>
     
