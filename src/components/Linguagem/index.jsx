@@ -12,16 +12,19 @@ const languagesOptions = [
   name: "Português",
   value: "ptBR",
   flag : brasil
-  },  {
-    name: "English",
-    value: "en",
-    flag : usa
-},
-{
+  }, 
+  {
     name: "Espanhol",
     value: "esp",
     flag : spain
 },
+  
+  {
+    name: "English",
+    value: "en",
+    flag : usa
+},
+
      
   ]
 
