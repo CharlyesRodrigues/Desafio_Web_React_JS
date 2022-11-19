@@ -1,4 +1,7 @@
-.background_Portugues {
+
+
+
+#background_Portugues {
     position: absolute;
     width: 133px;
     height: 51px;
@@ -10,23 +13,8 @@
     background: var(--Rectangle-4234);
     border-radius: 8px;
 }
-.background_Ingles{
-    position: absolute;
-    width: 133px;
-    height: 51px;
-    left: 653px;
-    top: 821px;
-    
-    /* Dark/surface-secondary */
-    
-    background: var(--Rectangle-4234);
-    border-radius: 8px;
 
-}
-
-.background_Espanhol{
-
-
+#background_Espanhol{
     position: absolute;
     width: 133px;
     height: 51px;
@@ -35,11 +23,26 @@
     
     /* Dark/surface-secondary */
     
-    background: var(--Rectangle-4234);
+    background: #27272A;
     border-radius: 8px;
 
 
 }
+#background_English{
+
+
+position: absolute;
+width: 133px;
+height: 51px;
+left: 653px;
+top: 821px;
+
+/* Dark/surface-secondary */
+
+background: #27272A;
+border-radius: 8px;
+}
+
 
 
 #portugues{
