@@ -1,13 +1,38 @@
+import brasil from '../../assets/flags/brasil.png'
+import spain from '../../assets/flags/spain.png'
+import usa from '../../assets/flags/usa.png'
 
+import { useTranslation } from 'react-i18next'
 
 import './style.css';
 
 
- export function Linguagem(props) {
+const languagesOptions = [
+   {
+   name: "Português",
+   value: "ptBR",
+   flag : brasil
+   },
+   {
+       name: "Espanhol",
+       value: "esp",
+       flag : spain
+       },
+       {
+           name: "English",
+           value: "en",
+           flag : usa
+       },
+   ]
+   
+
+
+
+ export function Linguagem() {
   
 
 
-
+   const{ t, i18n } = useTranslation();
   
     return (
       <div>
@@ -28,7 +53,7 @@ import './style.css';
        <button  className="bottomEspanhol" onclick = "teste()" ><img  src='src\assets\flags\spain.png'></img></button>
 
  
-  </div>
+       </div>
 
 
   )
