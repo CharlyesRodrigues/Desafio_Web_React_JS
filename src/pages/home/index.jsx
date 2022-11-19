@@ -38,8 +38,8 @@ const lista1 = ["JavaScript","React","Vue Js", "Tailwind CSS"];
           <h1>Olá, meu nome é Charlyes Souza Rodrigues e eu sou desenvolvedor Front-end,
             Tecnologias que tenho experiências:
           </h1>
-               <div className='Logo' > </div>
-               <img className='imagem1' src='src\assets\Logo\logo.png'></img>
+               <div className='background_logo' > </div>
+               <img className='logo' src='src\assets\Logo\logo.png'></img>
               
             <div className=' Rectangle4234'> </div>
             

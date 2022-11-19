@@ -39,18 +39,18 @@ const languagesOptions = [
           
       <div className="background_Portugues"></div>
        <h1 id='portugues' >Português</h1> 
-       <button  className="bottomPortugues"  onclick="myFunction()"> <img src='src\assets\flags\brazil.png'></img></button>
+       <button  className="bottomPortugues"> <img src='src\assets\flags\brazil.png'></img></button>
      
       
     
        <div className="background_Ingles"></div>
        <h1 id="ing" >Inglês</h1> 
-       <button type="button" className="bottomIngles" onclick ="teste()"></button>
+       <button type="button" className="bottomIngles" ><img src = 'src/assets/flags/united-states.png'></img></button>
   
    
     <div className="background_Espanhol"> </div>
        <h1 id='espanhol'  >Espanhol</h1> 
-       <button  className="bottomEspanhol" onclick = "teste()" ><img  src='src\assets\flags\spain.png'></img></button>
+       <button  className="bottomEspanhol"  ><img src='src\assets\flags\spain.png'></img></button>
 
  
        </div>
