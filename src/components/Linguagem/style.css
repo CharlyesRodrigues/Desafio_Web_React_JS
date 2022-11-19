@@ -1,144 +1,80 @@
+.bandeiras{
 
 
 
-#background_Portugues {
-    position: absolute;
-    width: 133px;
-    height: 51px;
-    left: 470px;
-    top: 821px;
-    
-    /* Dark/surface-secondary */
-    
-    background: var(--Rectangle-4234);
-    border-radius: 8px;
-}
-
-#background_Espanhol{
-    position: absolute;
-    width: 133px;
-    height: 51px;
-    left: 836px;
-    top: 821px;
-    
-    /* Dark/surface-secondary */
-    
-    background: #27272A;
-    border-radius: 8px;
-
-
-}
-#background_English{
-
-
-position: absolute;
-width: 133px;
-height: 51px;
-left: 653px;
-top: 821px;
-
-/* Dark/surface-secondary */
-
-background: #27272A;
-border-radius: 8px;
-}
-
-
-
-#portugues{
-
-    position: absolute;
-    width: 81px;
-    height: 26px;
-    left: 510px;
-    top: 834px;
-    
-    font-family: 'Inter', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 160%;
-    /* identical to box height, or 26px */
+    position: relative;
+        width: 791px;
+       
+        left: 600px;
+        top: 550px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24   px;
+        line-height: 160%;
+        /* or 38px */
+        align-content:center;
+        
+        color:var( --white);
+    }
     
     
-    color: var(--white);    
-
-
-}
-
-
-
-#ing{
-
-    position: absolute;
-    width: 47px;
-    height: 26px;
-    left: 710px;
-    top: 834px;
-    
-    font-family: 'Inter', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 160%;
-    /* identical to box height, or 26px */
     
     
-    color: var(--white);
-
-
-
-}
-#espanhol{
-
-
-    position: absolute;
-    width: 72px;
-    height: 26px;
-    left: 881px;
-    top: 834px;
+    .bandeiras > button{
     
-    font-family: 'Inter', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 160%;
-    /* identical to box height, or 26px */
+    cursor: pointer;
+    border-radius: 10px;
+     height:25px;
+     width:70px;   
+        
+    }
     
+    .imagem1{
     
-    color: var(--white);
-
-
-}
-.bottomPortugues{
+    display:flex;
+    
     position: absolute;
     width: 20px;
     height: 20px;
-    left: 482px;
-    top: 837px;
+    left: 25px;
+    top: 40px;
     
-  
-
-}
-
-.bottomIngles{
-
-position: absolute;
-width: 20px;
-height: 20px;
-left: 682px;
-top: 837px;
-
-
-
-}
-.bottomEspanhol{
-   
+    }
+    .imagem2{
+    
+         
     position: absolute;
     width: 20px;
     height: 20px;
-    left: 853px;
-    top: 837px;
+    left: 90px;
+    top: 40px
+            
+    }
+    .imagem3{
     
-   
-}
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 164px;
+                                   
+    top: 40px;
+                    
+    }
+                         
+    .idomas{
+    position: absolute;
+    
+    font-size:15px;
+    left:35px;                 
+    top: 80px;
+                          
+    
+    }
+    span{
+    
+           position: relative;
+           top: 0px;
+           color: var( --red-500);
+    }
