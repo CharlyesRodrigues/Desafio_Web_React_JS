@@ -6,23 +6,23 @@ import enJson from './Translations/en.json';
 import espJson from './Translations/esp.json';
 import ptBRJson from './Translations/ptBR.json';
 
- i18n
-.use(initReactI18next)
-.init({
+i18n
+  .use(initReactI18next)
+  .init({
 
-fallbackLng: "en",
+    fallbackLng: "en",
 
-interpolation: {
+    interpolation: {
 
-    escapeValue: false
- },
- resources:{
+      escapeValue: false
+    },
+    resources: {
 
-en:enJson,
-esp:espJson,
-ptBR:ptBRJson
-   
-  }
-})
+      en: enJson,
+      esp: espJson,
+      ptBR: ptBRJson
+
+    }
+  })
 
 export default i18n;

@@ -1,11 +1,11 @@
-import{Home} from './pages/home/index'
+import { Home } from './pages/home/index'
 
 
 function App() {
- 
+
   return (
-   <Home />
-  
+    <Home />
+
   )
 }
 
