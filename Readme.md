@@ -13,4 +13,11 @@ a linguagem selecionada
 4) Para estilização com React use Styled Components, em Angular Saas e em Vue use Tailwind
 CSS
 
-''
+
+![portugues](https://user-images.githubusercontent.com/98665329/207729831-4d1ee719-b505-4a68-a299-2ef6877d488c.PNG)
+
+
+![espanhol](https://user-images.githubusercontent.com/98665329/207729853-66d15988-5ea5-47f4-bd78-d412091ce075.PNG)
+
+
+![ingles](https://user-images.githubusercontent.com/98665329/207729869-2426a56e-1fc9-4512-b3f5-8eec698d9cb8.PNG)
