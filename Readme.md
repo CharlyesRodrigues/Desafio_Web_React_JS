@@ -3,16 +3,25 @@
 Funcionalidades React.js
 
 Npm install => instala nossas dependências gerando a pasta Node_modules
-Package.json e package-lock.json => são arquivos a qual ficam responsáveis em dizer quais são as dependências e scripts do nosso projeto, ou seja , nos descreve o que nosso projeto têm e usa.
+
+Package.json e package-lock.json => são arquivos a qual ficam responsáveis em dizer quais são as dependências e scripts do nosso projeto,
+ou seja , nos descreve o que nosso projeto têm e usa.
+
 Node_modules => está todas as dependências a qual o package  nos informa de que precisamos 
+
 Index.html => nosso html básico  
+
 Gitignore => é um arquivo que nos informa quais são os arquivos  e pastas que não vão subir para o nosso repositório quando comitarmos.
 
 Public => basicamente contém nossas imagens, ícones etc..
+
 Src => nessa pasta contém todos os nossos arquivos e estruturas de nossos projetos. As pastas criadas dentro do src são globais.
 Assets => contém as imagens
+
 Styles => estão os nossos estilos globais 
+
 Jsx => nada mais é que Javascript com xml que seria uma escrita aonde podemos ajuntar o html junto com o Javascript.
+
 Css=>reponsável pelas estilizações de nosso projeto
 
 
