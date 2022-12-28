@@ -1,6 +1,6 @@
 # Projeto Feito em React com JavaScript 
 
-Funcionalidades React.js
+## Funcionalidades React.js
 
 Npm install => instala nossas dependências gerando a pasta Node_modules
 
