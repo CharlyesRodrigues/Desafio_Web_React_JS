@@ -1,17 +1,22 @@
-Requisitos:
+Projeto Feito em Reaccom JavaScript  e utilizando a biblioteca de tradução i18n
 
-Esse projeto não consta no requisito.Ele foi feito em JavaScript com CSS e eu utilizei a biblioteca de tradução i18n 
+Funcionalidades React.js
 
-1) A lista de tecnologias deve ser um array onde no HTML você irá fazer um map para listar
+Npm install => instala nossas dependências gerando a pasta Node_modules
+Package.json e package-lock.json => são arquivos a qual ficam responsáveis em dizer quais são as dependências e scripts do nosso projeto, ou seja , nos descreve o que nosso projeto têm e usa.
+Node_modules => está todas as dependências a qual o package  nos informa de que precisamos 
+Index.html => nosso html básico  
+Gitignore => é um arquivo que nos informa quais são os arquivos  e pastas que não vão subir para o nosso repositório quando comitarmos.
 
-2) Ao clicar no botão de linguagem  o texto de apresentação "Olá meu nome...." muda para
-a linguagem selecionada
+Public => basicamente contém nossas imagens, ícones etc..
+Src => nessa pasta contém todos os nossos arquivos e estruturas de nossos projetos. As pastas criadas dentro do src são globais.
+Assets => contém as imagens
+Styles => estão os nossos estilos globais 
+Jsx => nada mais é que Javascript com xml que seria uma escrita aonde podemos ajuntar o html junto com o Javascript.
+Css=>reponsável pelas estilizações de nosso projeto
 
-3) O botão de linguagem  deve ser um componente onde você passará 3 propriedades: Título,
-ícone e o click dele
 
-4) Para estilização com React use Styled Components, em Angular Saas e em Vue use Tailwind
-CSS
+
 
 
 ![portugues](https://user-images.githubusercontent.com/98665329/207729831-4d1ee719-b505-4a68-a299-2ef6877d488c.PNG)
