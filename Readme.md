@@ -1,29 +1,28 @@
 # Projeto Feito em React com JavaScript 
 
-## Funcionalidades React.js
 
-Npm install => instala nossas dependências gerando a pasta Node_modules
+Npm install => Instala nossas dependências gerando a pasta Node_modules
 
-Package.json e package-lock.json => são arquivos a qual ficam responsáveis em dizer quais são as dependências e scripts do nosso projeto,
+Package.json e package-lock.json => São arquivos a qual ficam responsáveis em dizer quais são as dependências e scripts do nosso projeto,
 ou seja , nos descreve o que nosso projeto têm e usa.
 
-Node_modules => está todas as dependências a qual o package  nos informa de que precisamos 
+Node_modules => Está todas as dependências a qual o package  nos informa de que precisamos 
 
-Index.html => nosso html básico  
+Index.html => Nosso html básico  
 
-Gitignore => é um arquivo que nos informa quais são os arquivos  e pastas que não vão subir para o nosso repositório quando comitarmos.
+Gitignore => É um arquivo que nos informa quais são os arquivos  e pastas que não vão subir para o nosso repositório quando comitarmos.
 
-Public => basicamente contém nossas imagens, ícones etc..
+Public => Basicamente contém nossas imagens, ícones etc..
 
-Src => nessa pasta contém todos os nossos arquivos e estruturas de nossos projetos. As pastas criadas dentro do src são globais.
-Assets => contém as imagens
+Src => Nessa pasta contém todos os nossos arquivos e estruturas de nossos projetos. As pastas criadas dentro do src são globais.
 
-Styles => estão os nossos estilos globais 
+Assets => Contém as imagens
 
-Jsx => nada mais é que Javascript com xml que seria uma escrita aonde podemos ajuntar o html junto com o Javascript.
+Styles => Estão os nossos estilos globais 
 
-Css=>reponsável pelas estilizações de nosso projeto
+Jsx => Nada mais é que Javascript com xml que seria uma escrita aonde podemos ajuntar o html junto com o Javascript.
 
+Css=> Reponsável pelas estilizações de nosso projeto
 
 
 
