@@ -1,4 +1,4 @@
-#Projeto Feito em React com JavaScript  e utilizando a biblioteca de tradução i18n
+# Projeto Feito em React com JavaScript 
 
 Funcionalidades React.js
 
